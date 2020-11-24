@@ -14,6 +14,6 @@ For this project, UFO data was reviewed to display trends in UFO tracking.
 * A Bootstrap template was identified and added to an html file
 * HTML code was used to create tables and allow filtering based on search terms
 
-## Author
+## Authorsdf
 
 * **Emily Mobley**
